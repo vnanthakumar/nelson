@@ -2,13 +2,13 @@
 #include<cinio.h>
 void main()
 {
-   int a ;
-   scanf( "%d",&a);
+   int b ;
+   scanf( "%d",&b);
    if(0>a)
    {
       printf(" positive");
     }
-    else(0<a)
+    else(0<b)
    {
      printf("negative");
      }
